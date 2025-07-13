@@ -1,8 +1,18 @@
 # Scatter Wallet Desktop
 
-![Version](https://img.shields.io/github/v/release/scatter-community/scatter-wallet?label=latest) ![License](https://img.shields.io/github/license/scatter-community/scatter-wallet)
 
 A self‑custodial, cross‑platform blockchain wallet and local‑machine authentication hub.
+
+  <a href="https://github.com/scatter-community/scatter-wallet/releases/latest">
+    <img src="https://img.shields.io/badge/Windows-Download-blue?logo=windows&logoColor=white" alt="Download for Windows">
+  </a>
+  <a href="https://github.com/scatter-community/scatter-wallet/releases/latest">
+    <img src="https://img.shields.io/badge/macOS-Download-black?logo=apple&logoColor=white" alt="Download for macOS">
+  </a>
+  <a href="https://github.com/scatter-community/scatter-wallet/releases/latest">
+    <img src="https://img.shields.io/badge/Linux-Download-orange?logo=linux&logoColor=white" alt="Download for Linux">
+  </a>
+
 
 ---
 
