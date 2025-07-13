@@ -1,33 +1,34 @@
-# Scatter Desktop
+# Scatter Wallet Desktop
 
-Scatter desktop is a cutting-egde wallet for blockchain as well as a global local-machine authentication provider.
+![Version](https://img.shields.io/github/v/release/scatter-community/scatter-wallet?label=latest) ![License](https://img.shields.io/github/license/scatter-community/scatter-wallet)
+
+A self‑custodial, cross‑platform blockchain wallet and local‑machine authentication hub.
+
+---
 
 ## Installation
 
-#### [CLICK HERE AND GRAB THE LATEST RELEASE](https://github.com/GetScatter/ScatterDesktop/releases)
-Once you have a release build just install it and away you go.
+Download the latest release for **Windows**, **macOS** or **Linux** from [Releases](https://github.com/scatter-community/scatter-wallet/releases), then install or unpack and launch.
 
+## Development
 
+```bash
+git clone https://github.com/scatter-community/scatter-wallet.git
+cd scatter-wallet
+yarn install      # or npm install
+electron .        # ensure ScatterEmbed is running or configure .env
+```
 
-### Running in development mode
+## Build
 
-This runs best with `node v10.15.3` and `electron v5.0.1`
+Run the appropriate script on the target platform:
 
-- clone the repo
-- run `yarn install` to install the dependencies.
-- run `electron .` or `./node_modules/.bin/electron .` from the directory to start electron.
+```bash
+npm run release-mac
+npm run release-windows
+npm run release-linux
+```
 
-You will also need [ScatterEmbed](https://github.com/GetScatter/ScatterEmbed) running locally as this desktop client simply runs the wallet
-software that protects keys and controls encryption.
+## License
 
-Edit the `.env` file to point to your locally running version of Scatter Embed, or leave it as-is to run it with our live version.
-
-
-
-### Building
-
-- `npm run release-mac` or `npm run release-windows` or `npm run release-linux` ( you must build from the target machine )
-
-
-
-
+Distributed under the MIT License. See [LICENSE](./LICENSE).
