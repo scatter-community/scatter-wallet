@@ -14,7 +14,7 @@ A self‑custodial, cross‑platform wallet and local‑machine authentication h
 <table>
   <tr>
     <td>
-      <a href="https://github.com/scatter-community/scatter-wallet/releases/latest">
+      <a href="https://github.com/scatter-community/scatter-wallet/releases/download/v1.3.3/Scatter-13.1.2.exe">
         <img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge" alt="Download for Windows">
       </a>
     </td>
@@ -22,7 +22,7 @@ A self‑custodial, cross‑platform wallet and local‑machine authentication h
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/scatter-community/scatter-wallet/releases/latest">
+      <a href="[https://github.com/scatter-community/scatter-wallet/releases/latest](https://github.com/scatter-community/scatter-wallet/releases/download/v1.3.3/Scatter-13.1.2.dmg)">
         <img src="https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge" alt="Download for macOS">
       </a>
     </td>
@@ -30,14 +30,13 @@ A self‑custodial, cross‑platform wallet and local‑machine authentication h
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/scatter-community/scatter-wallet/releases/latest">
+      <a href="[https://github.com/scatter-community/scatter-wallet/releases/latest](https://github.com/scatter-community/scatter-wallet/releases/download/v1.3.3/Scatter-13.1.2.AppImage)">
         <img src="https://img.shields.io/badge/Linux-Download-FCC624?style=for-the-badge" alt="Download for Linux">
       </a>
     </td>
     <td>AppImage and .tar.gz for Ubuntu, Debian, Fedora, and other distributions</td>
   </tr>
 </table>
-
 
 
 ---
